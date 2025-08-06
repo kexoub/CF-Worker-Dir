@@ -23,7 +23,27 @@ const config = {
     {
       name:"搜 狗",
       template:"https://www.sogou.com/web?query=$s"
-    }
+    },
+     {
+      name:"jsDelivr CDN",
+      template:"https://cdnjsd.congyu.dpdns.org"
+     },
+      {
+      name:"Splayer",
+      template:"https://player.congyu.dpdns.org"
+      },
+    {
+      name:"twikoo",
+      template:"https://twikoo.congyu.dpdns.org"
+    },
+      {
+      name:"waline",
+      template:"https://waline.congyu.dpdns.org"
+      },
+      {
+      name:"LibreTV",
+      template:"https://tv.congyu.dpdns.org"
+      }
   ],
   selling_ads: true,                  //Selling your domain or not.(turning on may be helpful for selling this domain by showing some ads.)
   sell_info:{
