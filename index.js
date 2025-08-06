@@ -93,14 +93,9 @@ const config = {
   ]
 },
 {
-      name:"学习",
+      name:"娱乐congyu",
       icon:"graduation cap",
       list:[
-        {
-          url:"https://w3school.com.cn/",
-          name:"W3school在线教程",
-          desc:"程序员集散地"
-        },
         {
       name:"jsDelivr CDN",
       url:"https://cdnjsd.congyu.dpdns.org",
