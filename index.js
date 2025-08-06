@@ -89,9 +89,7 @@ const config = {
           desc:"程序员集散地"
         },
       ]
-    }
-  ]
-},
+    },
 {
       name:"娱乐congyu",
       icon:"graduation cap",
@@ -122,9 +120,9 @@ const config = {
       desc:"娱乐观影"
       },
       ]
-    }
+    },
   ]
-}
+},
 const el = (tag, attrs, content) => `<${tag} ${attrs.join(" ")}>${content}</${tag}>`;
 
 async function handleRequest(request) {
