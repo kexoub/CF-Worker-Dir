@@ -24,26 +24,6 @@ const config = {
       name:"搜 狗",
       template:"https://www.sogou.com/web?query=$s"
     },
-     {
-      name:"jsDelivr CDN",
-      template:"https://cdnjsd.congyu.dpdns.org"
-     },
-      {
-      name:"Splayer",
-      template:"https://player.congyu.dpdns.org"
-      },
-    {
-      name:"twikoo",
-      template:"https://twikoo.congyu.dpdns.org"
-    },
-      {
-      name:"waline",
-      template:"https://waline.congyu.dpdns.org"
-      },
-      {
-      name:"LibreTV",
-      template:"https://tv.congyu.dpdns.org"
-      }
   ],
   selling_ads: true,                  //Selling your domain or not.(turning on may be helpful for selling this domain by showing some ads.)
   sell_info:{
@@ -108,6 +88,44 @@ const config = {
           name:"简书",
           desc:"程序员集散地"
         },
+      ]
+    }
+  ]
+},
+{
+      name:"学习",
+      icon:"graduation cap",
+      list:[
+        {
+          url:"https://w3school.com.cn/",
+          name:"W3school在线教程",
+          desc:"程序员集散地"
+        },
+        {
+      name:"jsDelivr CDN",
+      url:"https://cdnjsd.congyu.dpdns.org",
+      desc:"jsDelivr开源实例"
+     },
+      {
+      name:"Splayer",
+      url:"https://player.congyu.dpdns.org",
+      desc:"网页音乐播放"
+      },
+    {
+      name:"twikoo",
+      url:"https://twikoo.congyu.dpdns.org",
+      desc:"twikoo评论实例"
+    },
+      {
+      name:"waline",
+      url:"https://waline.congyu.dpdns.org",
+      desc:"waline评论实例"
+      },
+      {
+      name:"LibreTV",
+      url:"https://tv.congyu.dpdns.org",
+      desc:"娱乐观影"
+      },
       ]
     }
   ]
