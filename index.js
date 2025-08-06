@@ -122,7 +122,7 @@ const config = {
       ]
     },
   ]
-},
+}
 const el = (tag, attrs, content) => `<${tag} ${attrs.join(" ")}>${content}</${tag}>`;
 
 async function handleRequest(request) {
