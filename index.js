@@ -96,29 +96,40 @@ const config = {
       list:[
         {
       name:"jsDelivr CDN",
-      url:"https://cdnjsd.congyu.dpdns.org",
+      url:"https://cdnjsd.congyu.dpdns.org/",
       desc:"jsDelivr开源实例"
      },
       {
       name:"Splayer",
-      url:"https://player.congyu.dpdns.org",
+      url:"https://player.congyu.dpdns.org/",
       desc:"网页音乐播放"
       },
     {
       name:"twikoo",
-      url:"https://twikoo.congyu.dpdns.org",
+      url:"https://twikoo.congyu.dpdns.org/",
       desc:"twikoo评论实例"
     },
       {
       name:"waline",
-      url:"https://waline.congyu.dpdns.org",
+      url:"https://waline.congyu.dpdns.org/",
       desc:"waline评论实例"
       },
       {
       name:"LibreTV",
-      url:"https://tv.congyu.dpdns.org",
+      url:"https://tv.congyu.dpdns.org/",
       desc:"娱乐观影"
       },
+      {
+      name:"moepush",
+      url:"https://moepush.congyu.dpdns.org/",
+      desc:"moepush推送实例"
+      },
+      {
+      name:"moemail",
+      url:"https://moemail.congyu.dpdns.org/",
+      desc:"moemail邮箱实例"
+      },
+      
       ]
     },
   ]
